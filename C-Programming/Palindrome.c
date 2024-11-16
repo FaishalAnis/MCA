@@ -10,6 +10,7 @@ int main() {
         rev = rev*10 + rem;
         a = a/10;
     }
+    
     if (num == rev) {
         printf("It is a Pallindrome\n");
     }
