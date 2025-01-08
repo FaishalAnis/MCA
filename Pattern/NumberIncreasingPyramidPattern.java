@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class GeeksForGeeks {
+public class Main {
     // Function to demonstrate pattern
     public static void printPattern(int n)
     {
